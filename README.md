@@ -12,4 +12,4 @@ This repository contains my work for the AI Programming course.
 Lab 1: First AI Agent (coming soon)
 
 ## Author
-Becca
+Rebecca Russo
