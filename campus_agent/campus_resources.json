@@ -1,0 +1,131 @@
+{
+  "resources": [
+    {
+      "name": "Library (Hultquist Library)",
+      "aliases": [
+        "library",
+        "lib",
+        "libraries",
+        "hultquist",
+        "hultquist library",
+        "media center"
+      ],
+      "location": "Jamestown Campus: Hultquist Library, 525 Falconer Street, Jamestown. Cattaraugus County Campus: Library, 260 North Union Street, Olean",
+      "hours": "Fall 2026 - Jamestown: Mon-Thu 8 AM-6 PM, Fri 8 AM-4 PM. Cattaraugus County: Mon-Thu 8 AM-4 PM, Fri 8 AM-1 PM. Closed weekends (holiday and break exceptions apply)",
+      "phone": "716.338.1008 (Jamestown), 716.376.7517 (Cattaraugus County)",
+      "email": "Not listed",
+      "website": "https://www.sunyjcc.edu/support/learning-commons/library",
+      "description": "Library and study spaces, research help, and circulation and reference desk.",
+      "verified_by": "Rebecca Russo",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "name": "Learning Center (Tutoring)",
+      "aliases": [
+        "tutoring",
+        "tutor",
+        "tutoring center",
+        "learning center",
+        "learning commons",
+        "academic support"
+      ],
+      "location": "Jamestown Campus: HULT Floor 1, Learning Commons. Cattaraugus County Campus: LLAC Floor 1, Learning Commons",
+      "hours": "Contact office for hours",
+      "phone": "716.338.1008 (Jamestown), 716.376.7517 (Cattaraugus County)",
+      "email": "Not listed",
+      "website": "https://www.sunyjcc.edu/support/learning-commons/learning-center",
+      "description": "Tutoring and academic support for students.",
+      "verified_by": "Rebecca Russo",
+      "last_verified": "2026-10-01"
+    },
+    {
+      "name": "Success Center (Advising and Counseling)",
+      "aliases": [
+        "advising",
+        "academic advising",
+        "advisor",
+        "counseling",
+        "counselor",
+        "success center"
+      ],
+      "location": "Jamestown Campus: COCE Floor 1. Cattaraugus County Campus: COLL Floor 1",
+      "hours": "Contact office for hours",
+      "phone": "716.338.1065 (Jamestown/Online), 716.376.7508 (Cattaraugus County)",
+      "email": "successcenter@mail.sunyjcc.edu",
+      "website": "https://sunyjcc.edu/support/counseling/staff",
+      "description": "Advising and counseling support for students.",
+      "verified_by": "Rebecca Russo",
+      "last_verified": "2026-10-01"
+    },
+    {
+      "name": "Financial Aid and Billing",
+      "aliases": [
+        "financial aid",
+        "financial aid office",
+        "fafsa",
+        "grants",
+        "scholarships",
+        "billing"
+      ],
+      "location": "Jamestown Campus: COCE Floor 1. Cattaraugus County Campus: COLL Floor 1",
+      "hours": "Contact office for hours",
+      "phone": "716.338.1009",
+      "email": "FinancialAid@sunyjcc.edu",
+      "website": "https://www.sunyjcc.edu/support/financial-aid-billing/scholarships",
+      "description": "Financial aid, scholarship and billing information.",
+      "verified_by": "Maryam Fatima",
+      "last_verified": "2026-09-29"
+    },
+    {
+      "name": "Campus Bookstore",
+      "aliases": [
+        "bookstore",
+        "campus store",
+        "books",
+        "textbooks"
+      ],
+      "location": "JCC Campus Store, 525 Falconer Street, Jamestown, NY 14701",
+      "hours": "Mon-Thu: 9:00 AM-4:30 PM. Fri: 9:00 AM-2:00 PM. Sat-Sun: Closed",
+      "phone": "(716) 338-1186",
+      "email": "sm8369@bncollege.com",
+      "website": "https://sunyjcc.bncollege.com/",
+      "description": "The campus store.",
+      "verified_by": "Rebecca Russo",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "name": "Campus Safety",
+      "aliases": [
+        "safety",
+        "security",
+        "campus security",
+        "public safety"
+      ],
+      "location": "Jamestown Campus: Collegiate Center (Hamilton Collegiate Center), Human Resources suite, 525 Falconer St., Jamestown, NY 14701",
+      "hours": "Contact office for hours. Evenings and weekends: buildings and grounds, 716.490.0415",
+      "phone": "716.338.1015",
+      "email": "Not listed",
+      "website": "https://www.sunyjcc.edu/support/safety",
+      "description": "Campus safety and incident reporting.",
+      "verified_by": "Rebecca Russo",
+      "last_verified": "2026-10-08"
+    },
+    {
+      "name": "Career Services",
+      "aliases": [
+        "career",
+        "career center",
+        "jobs",
+        "careers"
+      ],
+      "location": "Jamestown Campus and Cattaraugus County Campus",
+      "hours": "Contact office for hours",
+      "phone": "716.338.1061 (Jamestown), 716.376.7584 (Cattaraugus County)",
+      "email": "Not listed",
+      "website": "https://www.sunyjcc.edu/support/career-services/interest",
+      "description": "Career services for students.",
+      "verified_by": "Rebecca Russo",
+      "last_verified": "2026-10-08"
+    }
+  ]
+}
