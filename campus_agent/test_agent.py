@@ -15,20 +15,20 @@ from agent import get_campus_resource_info
 def test_library_lookup():
     result = get_campus_resource_info("library")
     assert result["status"] == "success"
-    assert result["name"] == "Library (Hultquist Library)"
+    assert result["name"] == "Library"
 
 
 def test_tutoring_alias():
     # "tutoring" is an alias, not the official name of the resource.
     result = get_campus_resource_info("tutoring")
     assert result["status"] == "success"
-    assert result["name"] == "Learning Center (Tutoring)"
+    assert result["name"] == "Tutoring Center"
 
 
 def test_case_insensitive():
     result = get_campus_resource_info("LIBRARY")
     assert result["status"] == "success"
-    assert result["name"] == "Library (Hultquist Library)"
+    assert result["name"] == "Library"
 
 
 def test_resource_not_found():

@@ -171,7 +171,7 @@ if not st.session_state.messages:
         
         I can help you find information about campus resources like:
         - **Library** - hours, locations, services
-        - **Learning Center (Tutoring)** - academic support
+        - **Tutoring Center** - academic support
         - **Success Center** - advising and counseling
         - **Financial Aid and Billing** - aid, scholarships, billing
         - **Campus Bookstore**, **Campus Safety** and **Career Services**
