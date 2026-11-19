@@ -8,6 +8,8 @@ Author: Rebecca Russo
 Course: CSC 2560 Introduction to AI Development
 """
 
+# Version 1.1 - added auto-redeploy
+
 import streamlit as st
 import asyncio
 import os
